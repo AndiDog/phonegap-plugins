@@ -1,0 +1,1 @@
+My PhoneGap plugins can now be found in [separate repositories](https://github.com/AndiDog). Please do not use this repository and its issue tracker anymore.
